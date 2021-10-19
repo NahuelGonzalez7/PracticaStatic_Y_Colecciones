@@ -1,0 +1,6 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\bin\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\bin\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\obj\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\obj\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.AssemblyReference.cache

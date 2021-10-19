@@ -1,0 +1,14 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\bin\Debug\WindowsAppList.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\bin\Debug\WindowsAppList.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\bin\Debug\WindowsAppList.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\bin\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\bin\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.frmAutor.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.frmEmpleado.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Clase - Practica 19-10\Practica - Casos\slnLibreriaColecciones\WindowsAppList\obj\Debug\WindowsAppList.frmPublicador.resources
